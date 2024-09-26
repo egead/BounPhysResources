@@ -6,7 +6,7 @@ This repository is a collection of useful resources such as:
 
 Feel free to contribute. (See: [Contributing](docs/CONTRIBUTING.md))
 
-**See undergrad course index [here](docs/UndergradIndex.md)**
+**See undergrad index [here](docs/UndergradIndex.md)**
 
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
