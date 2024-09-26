@@ -7,6 +7,7 @@ This repository is a collection of useful resources such avc s:
 Feel free to contribute. (See: [Contributing](docs/CONTRIBUTING.md))
 
 **[Undergrad Course Index](docs/UndergradIndex.md)**
+
 **[Physics Resource Catalog by Topic](docs/TopicCatalog.md)**
 
 ## Undergrad Courses 
