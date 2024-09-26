@@ -1,7 +1,12 @@
-# BOUN PHYS Resources
-This repository is a collection of useful resources (lecture notes, PS solutions, recommended resources and advice) for PHYS courses given in Bogazici University. 
+# BOUN Physics Resources
+This repository is a collection of useful resources such as:
+ - Recommended material for studying (or self-studying) physics topics.
+ - Lecture notes, PS solutions, recommended textbooks, advice etc.. for PHYS courses a given in Bogazici University.
+ - Other stuff... (Link dumps etc.) 
 
 Feel free to contribute. (See: [Contributing](docs/CONTRIBUTING.md))
+
+**See undergrad course index [here](docs/UndergradIndex.md)**
 
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
