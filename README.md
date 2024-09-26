@@ -1,12 +1,13 @@
 # BOUN Physics Resources
-This repository is a collection of useful resources such as:
+This repository is a collection of useful resources such avc s:
  - Recommended material for studying (or self-studying) physics topics.
  - Lecture notes, PS solutions, recommended textbooks, advice etc.. for PHYS courses a given in Bogazici University.
  - Other stuff... (Link dumps etc.) 
 
 Feel free to contribute. (See: [Contributing](docs/CONTRIBUTING.md))
 
-**See undergrad index [here](docs/UndergradIndex.md)**
+**[Undergrad Course Index](docs/UndergradIndex.md)**
+**[Physics Resource Catalog by Topic](docs/TopicCatalog.md)
 
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
