@@ -1,3 +1,8 @@
+# Undergrad Index
+
+## Misc
+- [Mass Course Study Guide](undergrad/MassCourseGuide.md)
+  
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
 
@@ -14,7 +19,7 @@
   - [PHYS221](undergrad/PHYS221) Thermal Properties of Matter
     
   Fourth Semester
-  - [PHYS202](undergrad/PHYS202) Physics IV
+  - [PHYS202](undergrad/PHYS202) Physics IVn
 
   #### Basic Physics Option: 
   Fifth Semester
