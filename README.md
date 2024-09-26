@@ -1,5 +1,5 @@
 # BOUN Physics Resources
-This repository is a collection of useful resources such avc s:
+This repository is a collection of useful resources such as:
  - Recommended material for studying (or self-studying) physics topics.
  - Lecture notes, PS solutions, recommended textbooks, advice etc.. for PHYS courses a given in Bogazici University.
  - Other stuff... (Link dumps etc.) 
