@@ -22,6 +22,7 @@ This repository is a collection of useful resources (lecture notes, PS solutions
   - [PHYS311](undergrad/PHYS311) Modern Physics I
   - [PHYS325](undergrad/PHYS325) Mathematical Methods of Physics I
   - [PHYS331](undergrad/PHYS331) Electronics for Physics I
+
   Sixth Semester
   - [PHYS302](undergrad/PHYS302) Classical Mechanics II
   - [PHYS312](undergrad/PHYS312) Modern Physics II
