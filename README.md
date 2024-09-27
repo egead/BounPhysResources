@@ -4,11 +4,11 @@ This repository is a collection of useful resources such as:
  - Lecture notes, PS solutions, recommended textbooks, advice etc.. for PHYS courses a given in Bogazici University.
  - Other stuff... (Link dumps etc.) 
 
-Feel free to contribute. (See: [Contributing](../docs/CONTRIBUTING.md))
+Feel free to contribute. (See: [Contributing](docs/CONTRIBUTING.md))
 
-**[Undergrad Course Index](../docs/UndergradIndex.md)**
+**[Undergrad Course Index](docs/UndergradIndex.md)**
 
-**[Physics Resource Catalog by Topic](../docs/TopicCatalog.md)**
+**[Physics Resource Catalog by Topic](docs/TopicCatalog.md)**
 
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
