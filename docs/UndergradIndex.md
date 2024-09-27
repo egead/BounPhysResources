@@ -1,22 +1,22 @@
 # Undergrad Index
 
 ## Misc
-- [Mass Course Study Guide](./undergrad/MassCourseGuide.md)
+- [Mass Course Study Guide](../undergrad/MassCourseGuide.md)
   
 ## Undergrad Courses 
 ### Required Undergrad Courses: 
 
   First Semester
-  - [PHYS101](./undergrad/PHYS101) Physics I
-  - [PHYS197](./undergrad/PHYS197) Analytical Methods in Physics
+  - [PHYS101](../undergrad/PHYS101) Physics I
+  - [PHYS197](../undergrad/PHYS197) Analytical Methods in Physics
     
   Second Semester
-  - [PHYS102](./undergrad/PHYS102) Physics II
-  - [PHYS198](./undergrad/PHYS198) Numerical Methods in Physics 
+  - [PHYS102](../undergrad/PHYS102) Physics II
+  - [PHYS198](../undergrad/PHYS198) Numerical Methods in Physics 
 
   Third Semester 
-  - [PHYS201](./undergrad/PHYS201) Physics III
-  - [PHYS221](./undergrad/PHYS221) Thermal Properties of Matter
+  - [PHYS201](../undergrad/PHYS201) Physics III
+  - [PHYS221](../undergrad/PHYS221) Thermal Properties of Matter
     
   Fourth Semester
   - [PHYS202](./undergrad/PHYS202) Physics IV
