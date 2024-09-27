@@ -1,1 +1,13 @@
 
+- Special Relativity
+- General Relativity
+- Classical Mechanics
+- Quantum Mechanics
+- Statistical Mechanics
+- Cosmology
+- Mathematical Physics
+- String Theory
+- Solid State Physics
+- High Energy Physics
+
+  
