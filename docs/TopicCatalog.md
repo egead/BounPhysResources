@@ -1,18 +1,19 @@
+# Physics Resource Catalog by Topic
 
-- Special Relativity
-- General Relativity
-- Classical Mechanics
-- Quantum Mechanics
-- Statistical Mechanics
-- Cosmology
-- Mathematical Physics
-- String Theory
-- Solid State Physics
-- High Energy Physics
-- Condensed Matter Physics
-- Computational Physics
-- Quantum Field Theory
-- Particle Physics
-- Gauge Theory
-- Quantum Gravity
-- AdS/CFT Correspondence
+- [Special Relativity](../topics/SpecialRelativity)
+- [General Relativity](../topics/GeneralRelativity)
+- [Classical Mechanics](../topics/ClassicalMechanics)
+- [Quantum Mechanics](../topics/QuantumMechanics)
+- [Statistical Mechanics](../topics/StatisticalMechanics)
+- [Cosmology](../topics/Cosmology)
+- [Mathematical Physics](../topics/MathematicalPhysics)
+- [String Theory](../topics/StringTheory)
+- [Solid State Physics](../topics/SolidStatePhysics)
+- [High Energy Physics](../topics/HighEnergyPhysics)
+- [Quantum Gravity](../topics/QuantumGravity)
+- [Condensed Matter Physics](../topics/CondensedMatterPhysics)
+- [Computational Physics](../topics/ComputationalPhysics)
+- [Quantum Field Theory](../topics/QFT)
+- [Particle Physics](../topics/ParticlePhysics)
+- [Gauge Theory](../topics/GaugeTheory)
+- [AdS-CFT](../topics/AdS-CFT)
