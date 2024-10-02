@@ -10,3 +10,9 @@
 - Solid State Physics
 - High Energy Physics
 - Condensed Matter Physics
+- Computational Physics
+- Quantum Field Theory
+- Particle Physics
+- Gauge Theory
+- Quantum Gravity
+- AdS/CFT Correspondence
