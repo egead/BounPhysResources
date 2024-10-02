@@ -3,7 +3,7 @@
 ## 📖 Misc
 - 📄 [Mass Course Study Guide](../undergrad/MassCourseGuide.md)
   
-### 📚 Required Undergrad Courses: 
+## 📚 Required Undergrad Courses: 
 
 #### First Semester
 - 📘 [PHYS101](undergrad/PHYS101) Physics I
