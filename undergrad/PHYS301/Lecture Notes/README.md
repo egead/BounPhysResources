@@ -4,5 +4,5 @@ If someone already uploaded lecture notes for the semester you want to contribut
 you can create a subfolder for your notes under your name or pseudonym.
 
 Ex.: 
-PHYS301/Lecture Notes/FALL24/Cheescakes-Notes/
-PHYS301/Lecture Notes/FALL24/JohnDoes-Notes/
+- PHYS301/Lecture Notes/FALL24/Cheescakes-Notes/
+- PHYS301/Lecture Notes/FALL24/JohnDoes-Notes/
