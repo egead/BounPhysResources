@@ -14,6 +14,6 @@
 - [Condensed Matter Physics ❄️](../topics/CondensedMatterPhysics)
 - [Computational Physics 🖥️](../topics/ComputationalPhysics)
 - [Quantum Field Theory 🌈](../topics/QFT)
-- [Particle Physics ⚖️](../topics/ParticlePhysics)
+- [Particle Physics ⚛️](../topics/ParticlePhysics)
 - [Gauge Theory 🔩](../topics/GaugeTheory)
 - [AdS-CFT 🔗](../topics/AdS-CFT)
